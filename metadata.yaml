@@ -1,0 +1,31 @@
+_repo: Bancroft-s-Tourist-s-Guide-YosemiteSan-Francisco-and-around-the-Bay--South.-_42210
+_version: 0.1.0
+contributor:
+  publisher_contributor:
+    agent_name: A.L. Bancroft & Company
+    aliases:
+    - Bancroft, A. L., & Co., pub.
+    - A.L. Bancroft and Company
+    - Bancroft & Company
+    gutenberg_agent_id: '41573'
+    url: http://www.gutenberg.org/2009/agents/41573
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2013-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42210'
+  lccn: rc01000623
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yosemite Valley (Calif.) -- Guidebooks'
+- !lcc 'F850.5'
+- !lcsh 'California -- Guidebooks'
+- !lcsh 'San Francisco (Calif.) -- Guidebooks'
+title: Bancroft's Tourist's Guide. Yosemite. San Francisco and around the Bay, (South.)
+url: http://www.gutenberg.org/ebooks/42210
