@@ -13,6 +13,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42210#Bancroft-s-Tourist-s-Guide-YosemiteSan-Francisco-and-around-the-Bay--South.-
 gutenberg_issued: '2013-02-26'
 gutenberg_type: Text
 identifiers:
